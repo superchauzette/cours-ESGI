@@ -1,0 +1,24 @@
+{
+  "mp3": [
+    { "extension": "mp3", "name": "coucou.mp3" },
+    { "extension": "mp3", "name": "mororor.mp3" },
+    { "extension": "mp3", "name": "rr.mp3" }
+  ],
+  "txt": [
+    { "extension": "txt", "name": "hh.txt" },
+    { "extension": "txt", "name": "titi.1.txt" },
+    { "extension": "txt", "name": "titi.2.txt" },
+    { "extension": "txt", "name": "titi.3.txt" }
+  ],
+  "son": [{ "extension": "son", "name": "hshshs.json" }],
+  "png": [
+    { "extension": "png", "name": "img.2.png" },
+    { "extension": "png", "name": "titi.png" }
+  ],
+  "log": [
+    { "extension": "log", "name": "poette.log" },
+    { "extension": "log", "name": "test.log" },
+    { "extension": "log", "name": "toto.log" }
+  ],
+  "tht": [{ "extension": "tht", "name": "pppp.tht" }]
+}
