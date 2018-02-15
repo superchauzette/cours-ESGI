@@ -135,8 +135,12 @@ mongoose.connect("mongodb://localhost/test1");
 //   .sort("nom") // triés par noms croissants
 //   .exec((err, clients) => console.log(client));
 
+// Recherche
+// findOne, findById, count
 // UPDATE
+// update, findOneAndUpdate, findByIdAndUpdate
 // DELETE
+// remove, finOneAndRemove, findByIdAndRemove
 
 // VALIDATION
 
